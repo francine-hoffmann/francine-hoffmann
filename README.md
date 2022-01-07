@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React and Node
 - 😄 Pronouns: She/Hers
 - ⚡ Fun fact: I love cooking, before becoming a software developer I wanted to be a chef.
-- 
+
 <div align="center">
   <a href="https://github.com/francine-hoffmann">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francine-hoffmann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
