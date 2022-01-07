@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## 👋 Hi there! I'm Francine Hoffmann, a full-stack developer in training!
 - 🌱 I’m currently learning React and Node
 - 😄 Pronouns: She/Hers
-- ⚡ Fun fact: I love cooking, before becoming a software developer I wanted to be a chef.
+- ⚡ Fun fact: I love cooking 🍲, before becoming a software developer I wanted to be a chef 👩‍🍳.
 
 <div align="center">
   <a href="https://github.com/francine-hoffmann">
